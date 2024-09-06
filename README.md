@@ -1,10 +1,10 @@
 #Final Project - Data Science
 
-Clara Eljaschewitsch
-DS 310 – Introduction to Data Science
-Wed 12/13/2023
+##Clara Eljaschewitsch
+##DS 310 – Introduction to Data Science
+##Wed 12/13/2023
 
-Overview
+##Overview
 
 This project explores various datasets to analyze relationships between different attributes and their impact on outcomes. The analysis involves examining automobile fuel efficiency, call center customer satisfaction, and leveraging visualizations to provide insights.
 
