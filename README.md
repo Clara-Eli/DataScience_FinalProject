@@ -64,8 +64,7 @@ Visualizations were created using Tableau Public to enhance the interpretability
 Scatterplot: Shows the relationship between car name, horsepower, and weight.
 Packed Bubbles: Illustrates car name, cylinder count, and weight.
 Bar Graph: Compares car name, horsepower, and MPG.
-Explore the visualizations here:
-[Visualization](https://public.tableau.com/views/Final_Project_17022405943780/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+Explore the visualizations [here:](https://public.tableau.com/views/Final_Project_17022405943780/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 Conclusion
 
